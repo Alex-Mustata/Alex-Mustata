@@ -1,16 +1,18 @@
-## Hi there 👋
+# Buenos días, mi nombre es Alexandrus Stelian Mustata.
 
-<!--
-**Alex-Mustata/Alex-Mustata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥘 Madrid, España.
 
-Here are some ideas to get you started:
+📖 Estudiante de **Desarrollo de Aplicaciones Multiplaforma** (DAM). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣  **Idiomas**: Español, Inglés, Rumano.
+
+## Conocimientos tecnológicos
+
+🏅 **BACK-END**: Java, Python.
+
+🏅 **FRONT-END**: HTML, CSS, JavaScript, XML.
+
+🏅 **Base de datos**: SQL, PL/SQL, MySQL.
+
+---
+**¡DISPONIBLE PARA PRACTICAS!**
